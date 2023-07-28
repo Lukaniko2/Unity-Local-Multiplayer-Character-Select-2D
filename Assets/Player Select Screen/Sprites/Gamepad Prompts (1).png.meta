@@ -1,0 +1,4806 @@
+fileFormatVersion: 2
+guid: fbe4d8479282774459e7f9f6381cada0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0e56c8d794d4b489fa90e123f02aee
+      internalID: -1060344495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 184
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c1f75c847d3414f8d8772caa9c08ab
+      internalID: -1045362979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 184
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a17d5914e4aa5749b93103ba1e7b93e
+      internalID: -30502757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 184
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c42d4454e6d71244affe089b97c90e1
+      internalID: 401173507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b6bef9b0c2ebf488d6f795cd358283
+      internalID: 1944824713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 182
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2cb3b0b37449044974a706f9fc0bb6
+      internalID: 1215055144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 182
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190cddf0a92f0f24e94051e6b1d142a1
+      internalID: 98412378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 182
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bfe9d7d368e6142b46c0e09e32db30
+      internalID: 226474931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7200d593384ce40836ce6f085f7703
+      internalID: -1559943253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c3e59e75b27642ae9bfdf101c902d
+      internalID: 272386669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1608849c3a515bd428a8aba38977c782
+      internalID: 76382716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2027ea182966645478670181602e0401
+      internalID: 176936229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97046ae3a0f4fdf47a45b21a8f184078
+      internalID: 1371892492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 177
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e54fec36c82aa448ebb89c0a6568b4
+      internalID: 2128010931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 177
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1554c6cdc11824093409fe790f3c8c
+      internalID: -1089009429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 177
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad27fd25cc045544aae30a6093ec509
+      internalID: 240898847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 177
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c5c09317efb6d45be48ce71aeef11a
+      internalID: -257673834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0b34a2c3fdab04a9410594c246716f
+      internalID: -519468997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da64b2e901574c47a14b90d2414796e
+      internalID: 862694021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8b3580e9ead6e47a387be42469412a
+      internalID: -1540143872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 172
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b11f3ef486cf342830ab9f4ccfcb35
+      internalID: 462457056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e02a244e0f45a4188359b0621f3f8c
+      internalID: -892349748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19bc345aa3561743954b1cc75ac6f49
+      internalID: -1750102994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ae957b342edf54da87268ffe44b028
+      internalID: -1974797380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b032203db06ce7640a0cffd04425213c
+      internalID: -1636625472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ddddb618ca87949a3b57935d6de37f
+      internalID: 1395365692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c04a957dcefc4bbaca1f0474f82e4
+      internalID: 129787598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cccde20b8712a34aaccc29f5ccb0a2d
+      internalID: -2036830759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77b7ba86be40e4096ba44c4eb1f1c2
+      internalID: -141920827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a27a6d0a5f6c3e4a9f0533befbb815a
+      internalID: -661986379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31121e34891442543b5f3109a036986c
+      internalID: -317874214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed67719e867d0f48aeda6f2edf167e2
+      internalID: 1397573013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e45d2d56dfe37a44b1a451ae0fb08b0
+      internalID: 1307284161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901b0c72547b7c0439a31379d2c7566b
+      internalID: -1135285078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c59f361f759b944a0f5644af718a6f
+      internalID: 1389998082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cff4814ec114140a79093f1d899ecc
+      internalID: -1788967508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eead179085618f4ea441c4cebdca703
+      internalID: 765878085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2156667d0e952ba41ad5433d2f855911
+      internalID: -1447467083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 158
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c157a89a908a4787b6c3e1d136aa5
+      internalID: -275670524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 158
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9045b01dd7f98f148b5cf48ee96c2709
+      internalID: -14687346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27299573097266f48b19a8d55ceb8b56
+      internalID: 1838370023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929dcfc034549234eb568cf7208c554f
+      internalID: -474159646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44e40bccd4899438c77e804009f0ab
+      internalID: -789535072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0d93bf3467cf743ab2aacdea9a8f9e
+      internalID: -966234243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 151
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750b73e3a17d5d04ca4ca99540b54e4c
+      internalID: 10654553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 151
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104e3e34274372408440f64c61b1f4a
+      internalID: -1450702241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 151
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a9e55e1903844dba5cc2a5dd77ad8
+      internalID: -1732097676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 151
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4d1376544def64fa42f4cfa62a7762
+      internalID: 1106601812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a54cfe75d596a439f68bad4f35e5d4
+      internalID: 1884337631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31cd208ff1fa04cad70f5f0215728a
+      internalID: 1874900360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6b8ab8708dad94cb663b805dc135e9
+      internalID: -2080240916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_53
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96d62b213fa35499219d2b4d5581a5
+      internalID: 1280414918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_54
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f2a4eae5e1bec469f9e652b61235d4
+      internalID: 2011830958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_55
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe80d7371060434f8982a1950f9a8cf
+      internalID: -1989030304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7968a09c41678b428d4ccdd79bdb575
+      internalID: -1378452297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe539b4babf74bf4c981850278750987
+      internalID: -426239102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_58
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6844ebaf6dd03478969298a09a3682
+      internalID: 196506719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818cf6349d01d3e449bf18f74e825e84
+      internalID: -1432716991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_60
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 151
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9f9bcb1653d246b440cca34219a8b
+      internalID: 580089054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 151
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd5b5897b6d4c9469105dd6a134cea7
+      internalID: -1044032582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_62
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 151
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e425a2ca14a8f48bbb5ba1a83fecab
+      internalID: -911004293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_63
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 151
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b69fb5d047b5764b9f08b4c86e7e5f6
+      internalID: -1851725715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2908dfceefb4dd4dbb2b019fc2df051
+      internalID: -135728053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356562b580903545be98d228c1e0e03
+      internalID: -1273943550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_66
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9a5d8f96d3eb4c8a7bb5ae4194818
+      internalID: -1473655944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_68
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15856633ee05e0b49ad939b39e7b3275
+      internalID: -1161459697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc445cb2c2c6a4aaf972bc9bd05603
+      internalID: 1656288379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_70
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 140
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c238a7812623a64a899ba50cb93a093
+      internalID: -1671476088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_71
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984374122928f149b7392bc2a29fdf6
+      internalID: 824694217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_72
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ddd2f6c3020d449cfaab197be3b9e
+      internalID: 677652881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1811df8fd0c824449928de712abed8e
+      internalID: -62967880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_74
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed5d11cb3598464091acc09b6ac8d23
+      internalID: -1504885394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 137
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c1cb4fd0f27148b3ed826fdc9976d
+      internalID: -639814481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_76
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 137
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3b8914a41cb67498057c5f44b18e0d
+      internalID: 1491687029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b0a151031fba488bdd46f423394ad
+      internalID: 1465417641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 121
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeb6fb1b4d74474eb2ae3b7a6101be8
+      internalID: -447992549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 121
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7f182df445424c9a471f056246971
+      internalID: -1328061500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_80
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 121
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b31dbf52a1534689b10ff4790bbad
+      internalID: -387252525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 119
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d852faa104b74e884066da253a041
+      internalID: -1853805125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 119
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7f8d2e84700254fb5978778c11faa2
+      internalID: 1325959229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e215b33060bd44ba4a4c1a945122f8
+      internalID: 1662939068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_84
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 119
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764d8db92f6130d44a2b9ad9d351b8b8
+      internalID: -966662688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_99
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be23163bb5a87a241b529b67ea2a4dfc
+      internalID: -2098944193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_100
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d40738e7aaeff4f9a2b69afb80774f
+      internalID: 1148258625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_101
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085f380953f02b446bdd36ecf8959c92
+      internalID: 1988954708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_102
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed9f4dd682d5f947a7ddd8a02100967
+      internalID: -1111135954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_103
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a158e70e0e9540835ebaba24a69d3
+      internalID: 1032862907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_104
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1667738a7e2a44bb2b53545d203efe
+      internalID: 1674016557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_105
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2f530043ded1049821daa2aea8f39c
+      internalID: 1816211830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_106
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea24ef157e0ef74cb0544a1de6db93f
+      internalID: 1914805109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_107
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767b4cc97f427940be5997a882b95f9
+      internalID: 161282684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_108
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e361dabd9269144b25e156e6b4f420
+      internalID: -1023457978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_109
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faa17e49a5670b4b902662be4accfe1
+      internalID: 48303486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_110
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae6112b62746094293b52dd5cfa00d4
+      internalID: 1903356971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_111
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059837a08bfbd3147b3d5195515c1d47
+      internalID: 1745367974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b98eb23ced94b47bcb07dac6c0a7d0
+      internalID: 939271331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef862a8e3e6af40b2f079d57c11068
+      internalID: 1714673379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_114
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56885f5d5fcb98b4e9688b218ed3d217
+      internalID: -683457542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_115
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec1ca15f584d04495df9a9f9b14e6b
+      internalID: 1604096747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_116
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 106
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa0d6be9e958046a0831c13cf1a0c8
+      internalID: 1475581328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 106
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e4a79c249e9244b49be8bd818931c
+      internalID: -274700724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_131
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a128c6ab5f932946939d093b5716280
+      internalID: 29803786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_132
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc57e5f3e66319449a5b0b428ccf4f6
+      internalID: -265414281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_133
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86eb1cc2a3cd1d49911c64c7daaec03
+      internalID: 1571838564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_134
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ac3530214840c41bdccfa5d1277bb4
+      internalID: 415671724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_135
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242790ecf17a5dc429432e507dbe9a0f
+      internalID: -1284835808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_136
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d76b2852fdb941b3dae39ce08818b
+      internalID: 2102481306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_137
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8697a8ffdb2814b44bec92210acf1105
+      internalID: -1347230559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_138
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8fba2d9da9b694ba1c6c81484f6361
+      internalID: 1840344924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_139
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca9cef017d77e84b80159d84d09df2f
+      internalID: -1906312409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_140
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4eed4eebabdf848a99bf9d30d07df5
+      internalID: 1230759173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_141
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c2ca5bdd164254991eb44949161b5c
+      internalID: -734761039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_142
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a31e4f36dd3c574f8a019c4640c2a4e
+      internalID: 1824217068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_143
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a27db262a192548b674e32b22b981d
+      internalID: 1087145326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6f521d14e07d4faf937b4abe04246
+      internalID: 328030584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_145
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 96
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8be96d0a293740b84f80ea37349bf
+      internalID: -1910077619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_146
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 106
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9270ac120bc49f24fbd107f1c39fce79
+      internalID: 582001530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_147
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 106
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23f004665d21364baf7092a9652a08a
+      internalID: -253311905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_159
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918b0418b0b823745a056104a07b9f4a
+      internalID: 1831702589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_160
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 98
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d39ee24db4494448a3fce436914932
+      internalID: -1698410985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_161
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 105
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf55186551eb1d649885a4850852bce5
+      internalID: 1005880239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_162
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21835bad7ef262a4387a7494da54f3da
+      internalID: 1473709839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_163
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72604f0762fac346908c0a15d7c98ef
+      internalID: 92290371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_164
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b46cdd029187ac4f85279b74299ae7d
+      internalID: 984970520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_165
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9a8076ac8126488fa467995635692
+      internalID: -1693377444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_166
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7b34d7ce8b4b74b861249af28e3a86
+      internalID: -144947158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_167
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5718dbed36a1439b1347af19e2a29
+      internalID: -2092898628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_168
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 105
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ee8d9072fd034691079af1088de57
+      internalID: -947648436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_169
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 105
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea66f41b21b8d7498eb442c8e0ebd36
+      internalID: 2037436909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_170
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 99
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2560f2d9b74993a45b628b363a74376e
+      internalID: -352922197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_171
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 96
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38223326a6ef94a9832e9d086cad3e
+      internalID: -1819981641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_172
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 96
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d573f63ca94a1f489a534e4feabe900
+      internalID: -772137144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_173
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1698c6d94f920c44a8d592f1ec2fcb0d
+      internalID: 113181133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_174
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 92
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def316abe48e2094f86ffdeb96cf8ad7
+      internalID: -655531155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_175
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 92
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d5c0845c9db14c907dee5c3dffdc0
+      internalID: 387857710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_188
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 89
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd17f7282b69d4b8b7143338da85a3
+      internalID: -832026206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_189
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 98
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8d46f3a1af804db0665fe1ce9b2d9
+      internalID: -1426647119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_190
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 89
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed428d97a24f83e4886e36ac0188e833
+      internalID: -1078552716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_191
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94650f6663304ff4ca53524ff69ce0a2
+      internalID: 162605920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_192
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21845eb04de04749baa2fbbcc39b0c5
+      internalID: -502065520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_193
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10437e00a57c7b84cb63d83392c18ec1
+      internalID: -1571776958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_194
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4865abc8ea4f24f864c4a5dc02f777
+      internalID: -1165465126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_195
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 99
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd06e6656def742a4b5e83e94df8c7
+      internalID: -8041014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_196
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 99
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef86efed28eead046bf56d9206989033
+      internalID: 178573658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_197
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 89
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a48fa3e91a4cc45af9115cd346177a
+      internalID: -217796774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_198
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 97
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a0ade027e8ec4fbe20004367704f3
+      internalID: -1424273130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_199
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af052e768a99454185baae27b20e37f
+      internalID: 2123623582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_200
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 83
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4171ab75c652f144ebf6897f848fa079
+      internalID: 801625142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_201
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01e10838997092419fca167bb8fc0c3
+      internalID: 655352845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_202
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 83
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe1cf348fb058428556486ec6d9b6d
+      internalID: -416751160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_203
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 79
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce980c768ce1e944f97fa6c18c454a7b
+      internalID: -123953481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_204
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db68e8298cce904cbc414e9b4c01973
+      internalID: -1665470438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_205
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 89
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41813f78a731ba4287b254cc76c472e
+      internalID: 454251417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_206
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67aa4c5a0614146ad25382db14b27e
+      internalID: -1861128194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_207
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52392db27f9e63848adf5e6d764643f5
+      internalID: 1016055769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_208
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c0f580be920624493bf2dd4679ec5d
+      internalID: 1685172149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_209
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf8b13b3cda4084b85f4879faaa2758
+      internalID: 607881290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_210
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c7e632881c42f41890b5bd349ced22
+      internalID: -1494422579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_211
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48008c93580d740b6354c2bd1c9d96
+      internalID: -1029911072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_212
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b2523737d3f6c49864837391df5db1
+      internalID: 255421493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_213
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9b4682a0154634281f580c28b9d6bd
+      internalID: 1411550135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_214
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0400e84cc9908af4da33cb7d6efbd0ee
+      internalID: -1720335381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_215
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa6e418ad3e9074eb9519ce1cdd26bd
+      internalID: 169996164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_216
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c57205a65c6c740a23ec20900bad36
+      internalID: 2110330192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_217
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b962c5d4845572848b7f87b710f71ec7
+      internalID: 502227318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_229
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98182711d1444f1449e3575e3259da58
+      internalID: -1393658865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_230
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce59345dcdcd143980c9d87d748abe
+      internalID: 1161274644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_231
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9d2fc95fb379469db4b8d789e25b7
+      internalID: -1184908215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_232
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38e55c0aa674ac44b6746b57936116f
+      internalID: 705491536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_233
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 53
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6bb7a564740cc499683d1c0fedfeef
+      internalID: 1884383550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_234
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 53
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32cd88b5b25530448472e3fd2df49a5
+      internalID: -1151494080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_235
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 53
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31b2629089e5141ab2468c54aadf81
+      internalID: -296572272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_245
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 39
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2130faf87a878548a7713d4c9bb3584
+      internalID: 454592663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_246
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 39
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146fef8b424984e43b658eb203887f7a
+      internalID: 2129127838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_247
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 39
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c92c6e1d3a02d646adee60722ed2770
+      internalID: -121011371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_248
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 39
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e231e58a585d334f9477ecb04b522a9
+      internalID: 620886037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_249
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 33
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc52d4372347edc4eaca62341e13060b
+      internalID: 991293526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_250
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 33
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6521d8f9dffafd24a8386941110937b6
+      internalID: -935871880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_251
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 33
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260fecc76840e2f47a1249cd3f191bec
+      internalID: 1097083804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_261
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 26
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dec04df23796647a84d47c32e46904
+      internalID: -196675150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_262
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 26
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986cd7445daf4740bfcc7fc45ee2244
+      internalID: 1674322634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_263
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 26
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90db65a7a39fd2541b7fdf67dbf186df
+      internalID: 1054147767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_264
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 26
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d02f9e248b4c1d48a5955718a1219a1
+      internalID: -369533350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_265
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6bc4c3db2afa4faf2dc9ce6318e36
+      internalID: 1012163346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_266
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 13
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215128cfe0bf798419f2226eb888f161
+      internalID: 1643054666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_267
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 13
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0667fcff48424aa10342dd9c63824
+      internalID: -1489376254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_268
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440e8808e9a92664fbeebbfec1cb0839
+      internalID: -104517851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_269
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 11
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd93c95e386264585823ff5cdb6851
+      internalID: -796938652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_270
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 11
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c075bfd6c11d5ba43b7bdc5bd0de6604
+      internalID: 462941466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_271
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d344c961fe0de44822d74742375b80
+      internalID: 557547729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_272
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 11
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25633f5200d7aa49b1693950079d1ae
+      internalID: -1475267260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_273
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae840ca2b6af3418e0b6f02f201365
+      internalID: 1084011475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_274
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799b1a5d59a7a764a8b5570be888fdf1
+      internalID: -2041780046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_275
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6d944d01531bd4ca9e5c96086db0c5
+      internalID: -1968185606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_276
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059a24c0dece9f2479503e97ff6f883b
+      internalID: -192698999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_277
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e30efc082732842a10b85d460554ca
+      internalID: 977419859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_279
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bceb1406f4cd344bce64fd7043cf76
+      internalID: 393332707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_280
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb9e72a1e125e4f89e37e0924f8cec
+      internalID: -909273835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_281
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2967fbfd0fe556479f7ed0e33db9721
+      internalID: 1835884369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_282
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e506916576a294dbd3f37a48aea7e4
+      internalID: -104155325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_283
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae7a6cf4de1ec94e893cca7a845f159
+      internalID: -1615526409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_284
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fc0c342fd117240ae79bf7cef4d96a
+      internalID: 441114448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_285
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91db73be5056c846b89572deb13e4f9
+      internalID: 241323058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_286
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5ccb026da9f2d4b9f89c299f80202e
+      internalID: 336796717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_287
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2c06ddce3f804586fae033269839a
+      internalID: 1099676269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_288
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab455f32b80f7748981aab47e12302c
+      internalID: 1686244697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_289
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63657a5d713ec4caafd1a46585682f
+      internalID: 1501712415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gamepad Prompts (1)_290
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7303d406ac3674ea1f5d616a65d0ed
+      internalID: 577945158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gamepad Prompts (1)_0: -1060344495
+      Gamepad Prompts (1)_1: -1045362979
+      Gamepad Prompts (1)_10: -13575099
+      Gamepad Prompts (1)_100: 1148258625
+      Gamepad Prompts (1)_101: 1988954708
+      Gamepad Prompts (1)_102: -1111135954
+      Gamepad Prompts (1)_103: 1032862907
+      Gamepad Prompts (1)_104: 1674016557
+      Gamepad Prompts (1)_105: 1816211830
+      Gamepad Prompts (1)_106: 1914805109
+      Gamepad Prompts (1)_107: 161282684
+      Gamepad Prompts (1)_108: -1023457978
+      Gamepad Prompts (1)_109: 48303486
+      Gamepad Prompts (1)_11: 272386669
+      Gamepad Prompts (1)_110: 1903356971
+      Gamepad Prompts (1)_111: 1745367974
+      Gamepad Prompts (1)_112: 939271331
+      Gamepad Prompts (1)_113: 1714673379
+      Gamepad Prompts (1)_114: -683457542
+      Gamepad Prompts (1)_115: 1604096747
+      Gamepad Prompts (1)_116: 1475581328
+      Gamepad Prompts (1)_117: -274700724
+      Gamepad Prompts (1)_118: 2026017111
+      Gamepad Prompts (1)_119: 562767141
+      Gamepad Prompts (1)_12: 76382716
+      Gamepad Prompts (1)_120: -1601868892
+      Gamepad Prompts (1)_121: -1893059271
+      Gamepad Prompts (1)_122: 1571484482
+      Gamepad Prompts (1)_123: -984162859
+      Gamepad Prompts (1)_124: -1523614446
+      Gamepad Prompts (1)_125: -1677173723
+      Gamepad Prompts (1)_126: -1979554322
+      Gamepad Prompts (1)_127: -1124666947
+      Gamepad Prompts (1)_128: -1472370819
+      Gamepad Prompts (1)_129: -1544377687
+      Gamepad Prompts (1)_13: 176936229
+      Gamepad Prompts (1)_130: -1626427148
+      Gamepad Prompts (1)_131: 29803786
+      Gamepad Prompts (1)_132: -265414281
+      Gamepad Prompts (1)_133: 1571838564
+      Gamepad Prompts (1)_134: 415671724
+      Gamepad Prompts (1)_135: -1284835808
+      Gamepad Prompts (1)_136: 2102481306
+      Gamepad Prompts (1)_137: -1347230559
+      Gamepad Prompts (1)_138: 1840344924
+      Gamepad Prompts (1)_139: -1906312409
+      Gamepad Prompts (1)_14: 1371892492
+      Gamepad Prompts (1)_140: 1230759173
+      Gamepad Prompts (1)_141: -734761039
+      Gamepad Prompts (1)_142: 1824217068
+      Gamepad Prompts (1)_143: 1087145326
+      Gamepad Prompts (1)_144: 328030584
+      Gamepad Prompts (1)_145: -1910077619
+      Gamepad Prompts (1)_146: 582001530
+      Gamepad Prompts (1)_147: -253311905
+      Gamepad Prompts (1)_148: -515234629
+      Gamepad Prompts (1)_149: 1334176657
+      Gamepad Prompts (1)_15: 2128010931
+      Gamepad Prompts (1)_150: -800270347
+      Gamepad Prompts (1)_151: 246609067
+      Gamepad Prompts (1)_152: 1633984301
+      Gamepad Prompts (1)_153: 1033039204
+      Gamepad Prompts (1)_154: -635755197
+      Gamepad Prompts (1)_155: -1946836588
+      Gamepad Prompts (1)_156: 728499900
+      Gamepad Prompts (1)_157: -1951246526
+      Gamepad Prompts (1)_158: -742190221
+      Gamepad Prompts (1)_159: 1831702589
+      Gamepad Prompts (1)_16: -1089009429
+      Gamepad Prompts (1)_160: -1698410985
+      Gamepad Prompts (1)_161: 1005880239
+      Gamepad Prompts (1)_162: 1473709839
+      Gamepad Prompts (1)_163: 92290371
+      Gamepad Prompts (1)_164: 984970520
+      Gamepad Prompts (1)_165: -1693377444
+      Gamepad Prompts (1)_166: -144947158
+      Gamepad Prompts (1)_167: -2092898628
+      Gamepad Prompts (1)_168: -947648436
+      Gamepad Prompts (1)_169: 2037436909
+      Gamepad Prompts (1)_17: 240898847
+      Gamepad Prompts (1)_170: -352922197
+      Gamepad Prompts (1)_171: -1819981641
+      Gamepad Prompts (1)_172: -772137144
+      Gamepad Prompts (1)_173: 113181133
+      Gamepad Prompts (1)_174: -655531155
+      Gamepad Prompts (1)_175: 387857710
+      Gamepad Prompts (1)_176: -1403186798
+      Gamepad Prompts (1)_177: 2095514319
+      Gamepad Prompts (1)_178: -603203044
+      Gamepad Prompts (1)_179: -1679717832
+      Gamepad Prompts (1)_18: -257673834
+      Gamepad Prompts (1)_180: -1130932478
+      Gamepad Prompts (1)_181: 403435639
+      Gamepad Prompts (1)_182: 1509900378
+      Gamepad Prompts (1)_183: -435074078
+      Gamepad Prompts (1)_184: 659959290
+      Gamepad Prompts (1)_185: 1932995869
+      Gamepad Prompts (1)_186: 702914224
+      Gamepad Prompts (1)_187: 2038645460
+      Gamepad Prompts (1)_188: -832026206
+      Gamepad Prompts (1)_189: -1426647119
+      Gamepad Prompts (1)_19: -519468997
+      Gamepad Prompts (1)_190: -1078552716
+      Gamepad Prompts (1)_191: 162605920
+      Gamepad Prompts (1)_192: -502065520
+      Gamepad Prompts (1)_193: -1571776958
+      Gamepad Prompts (1)_194: -1165465126
+      Gamepad Prompts (1)_195: -8041014
+      Gamepad Prompts (1)_196: 178573658
+      Gamepad Prompts (1)_197: -217796774
+      Gamepad Prompts (1)_198: -1424273130
+      Gamepad Prompts (1)_199: 2123623582
+      Gamepad Prompts (1)_2: -30502757
+      Gamepad Prompts (1)_20: 862694021
+      Gamepad Prompts (1)_200: 801625142
+      Gamepad Prompts (1)_201: 655352845
+      Gamepad Prompts (1)_202: -416751160
+      Gamepad Prompts (1)_203: -123953481
+      Gamepad Prompts (1)_204: -1665470438
+      Gamepad Prompts (1)_205: 454251417
+      Gamepad Prompts (1)_206: -1861128194
+      Gamepad Prompts (1)_207: 1016055769
+      Gamepad Prompts (1)_208: 1685172149
+      Gamepad Prompts (1)_209: 607881290
+      Gamepad Prompts (1)_21: -1540143872
+      Gamepad Prompts (1)_210: -1494422579
+      Gamepad Prompts (1)_211: -1029911072
+      Gamepad Prompts (1)_212: 255421493
+      Gamepad Prompts (1)_213: 1411550135
+      Gamepad Prompts (1)_214: -1720335381
+      Gamepad Prompts (1)_215: 169996164
+      Gamepad Prompts (1)_216: 2110330192
+      Gamepad Prompts (1)_217: 502227318
+      Gamepad Prompts (1)_218: -1915684905
+      Gamepad Prompts (1)_219: -543067211
+      Gamepad Prompts (1)_22: 462457056
+      Gamepad Prompts (1)_220: -492043464
+      Gamepad Prompts (1)_221: 328937299
+      Gamepad Prompts (1)_222: 140135137
+      Gamepad Prompts (1)_223: -366769666
+      Gamepad Prompts (1)_224: -905010983
+      Gamepad Prompts (1)_225: -193996864
+      Gamepad Prompts (1)_226: -317400911
+      Gamepad Prompts (1)_227: -1798586142
+      Gamepad Prompts (1)_228: 1237054441
+      Gamepad Prompts (1)_229: -1393658865
+      Gamepad Prompts (1)_23: -892349748
+      Gamepad Prompts (1)_230: 1161274644
+      Gamepad Prompts (1)_231: -1184908215
+      Gamepad Prompts (1)_232: 705491536
+      Gamepad Prompts (1)_233: 1884383550
+      Gamepad Prompts (1)_234: -1151494080
+      Gamepad Prompts (1)_235: -296572272
+      Gamepad Prompts (1)_236: -1142578399
+      Gamepad Prompts (1)_237: 1821263649
+      Gamepad Prompts (1)_238: -203000489
+      Gamepad Prompts (1)_239: -2066320677
+      Gamepad Prompts (1)_24: -1750102994
+      Gamepad Prompts (1)_240: -782252814
+      Gamepad Prompts (1)_241: 1672388035
+      Gamepad Prompts (1)_242: 169905852
+      Gamepad Prompts (1)_243: -1558043574
+      Gamepad Prompts (1)_244: -1103359911
+      Gamepad Prompts (1)_245: 454592663
+      Gamepad Prompts (1)_246: 2129127838
+      Gamepad Prompts (1)_247: -121011371
+      Gamepad Prompts (1)_248: 620886037
+      Gamepad Prompts (1)_249: 991293526
+      Gamepad Prompts (1)_25: -1974797380
+      Gamepad Prompts (1)_250: -935871880
+      Gamepad Prompts (1)_251: 1097083804
+      Gamepad Prompts (1)_252: 293574700
+      Gamepad Prompts (1)_253: -845344915
+      Gamepad Prompts (1)_254: 1948172593
+      Gamepad Prompts (1)_255: -548557173
+      Gamepad Prompts (1)_256: 264913912
+      Gamepad Prompts (1)_257: 1644855728
+      Gamepad Prompts (1)_258: -1409054754
+      Gamepad Prompts (1)_259: 2008851050
+      Gamepad Prompts (1)_26: -1636625472
+      Gamepad Prompts (1)_260: 888398760
+      Gamepad Prompts (1)_261: -196675150
+      Gamepad Prompts (1)_262: 1674322634
+      Gamepad Prompts (1)_263: 1054147767
+      Gamepad Prompts (1)_264: -369533350
+      Gamepad Prompts (1)_265: 1012163346
+      Gamepad Prompts (1)_266: 1643054666
+      Gamepad Prompts (1)_267: -1489376254
+      Gamepad Prompts (1)_268: -104517851
+      Gamepad Prompts (1)_269: -796938652
+      Gamepad Prompts (1)_27: 1395365692
+      Gamepad Prompts (1)_270: 462941466
+      Gamepad Prompts (1)_271: 557547729
+      Gamepad Prompts (1)_272: -1475267260
+      Gamepad Prompts (1)_273: 1084011475
+      Gamepad Prompts (1)_274: -2041780046
+      Gamepad Prompts (1)_275: -1968185606
+      Gamepad Prompts (1)_276: -192698999
+      Gamepad Prompts (1)_277: 977419859
+      Gamepad Prompts (1)_278: 1167626426
+      Gamepad Prompts (1)_279: 393332707
+      Gamepad Prompts (1)_28: 129787598
+      Gamepad Prompts (1)_280: -909273835
+      Gamepad Prompts (1)_281: 1835884369
+      Gamepad Prompts (1)_282: -104155325
+      Gamepad Prompts (1)_283: -1615526409
+      Gamepad Prompts (1)_284: 441114448
+      Gamepad Prompts (1)_285: 241323058
+      Gamepad Prompts (1)_286: 336796717
+      Gamepad Prompts (1)_287: 1099676269
+      Gamepad Prompts (1)_288: 1686244697
+      Gamepad Prompts (1)_289: 1501712415
+      Gamepad Prompts (1)_29: -2036830759
+      Gamepad Prompts (1)_290: 577945158
+      Gamepad Prompts (1)_3: 401173507
+      Gamepad Prompts (1)_30: -141920827
+      Gamepad Prompts (1)_31: -661986379
+      Gamepad Prompts (1)_32: -317874214
+      Gamepad Prompts (1)_33: 1397573013
+      Gamepad Prompts (1)_34: 1307284161
+      Gamepad Prompts (1)_35: -1135285078
+      Gamepad Prompts (1)_36: 1389998082
+      Gamepad Prompts (1)_37: -1788967508
+      Gamepad Prompts (1)_38: 765878085
+      Gamepad Prompts (1)_39: -1447467083
+      Gamepad Prompts (1)_4: 1944824713
+      Gamepad Prompts (1)_40: -275670524
+      Gamepad Prompts (1)_41: -14687346
+      Gamepad Prompts (1)_42: 1838370023
+      Gamepad Prompts (1)_43: -474159646
+      Gamepad Prompts (1)_44: -789535072
+      Gamepad Prompts (1)_45: -966234243
+      Gamepad Prompts (1)_46: 10654553
+      Gamepad Prompts (1)_47: -1450702241
+      Gamepad Prompts (1)_48: -1732097676
+      Gamepad Prompts (1)_49: 1106601812
+      Gamepad Prompts (1)_5: 1215055144
+      Gamepad Prompts (1)_50: 1884337631
+      Gamepad Prompts (1)_51: 1874900360
+      Gamepad Prompts (1)_52: -2080240916
+      Gamepad Prompts (1)_53: 1280414918
+      Gamepad Prompts (1)_54: 2011830958
+      Gamepad Prompts (1)_55: -1989030304
+      Gamepad Prompts (1)_56: -1378452297
+      Gamepad Prompts (1)_57: -426239102
+      Gamepad Prompts (1)_58: 196506719
+      Gamepad Prompts (1)_59: -1432716991
+      Gamepad Prompts (1)_6: 98412378
+      Gamepad Prompts (1)_60: 580089054
+      Gamepad Prompts (1)_61: -1044032582
+      Gamepad Prompts (1)_62: -911004293
+      Gamepad Prompts (1)_63: -1851725715
+      Gamepad Prompts (1)_64: -135728053
+      Gamepad Prompts (1)_65: -1273943550
+      Gamepad Prompts (1)_66: -1473655944
+      Gamepad Prompts (1)_67: -849323189
+      Gamepad Prompts (1)_68: -1161459697
+      Gamepad Prompts (1)_69: 1656288379
+      Gamepad Prompts (1)_7: 226474931
+      Gamepad Prompts (1)_70: -1671476088
+      Gamepad Prompts (1)_71: 824694217
+      Gamepad Prompts (1)_72: 677652881
+      Gamepad Prompts (1)_73: -62967880
+      Gamepad Prompts (1)_74: -1504885394
+      Gamepad Prompts (1)_75: -639814481
+      Gamepad Prompts (1)_76: 1491687029
+      Gamepad Prompts (1)_77: 1465417641
+      Gamepad Prompts (1)_78: -447992549
+      Gamepad Prompts (1)_79: -1328061500
+      Gamepad Prompts (1)_8: -1559943253
+      Gamepad Prompts (1)_80: -387252525
+      Gamepad Prompts (1)_81: -1853805125
+      Gamepad Prompts (1)_82: 1325959229
+      Gamepad Prompts (1)_83: 1662939068
+      Gamepad Prompts (1)_84: -966662688
+      Gamepad Prompts (1)_85: 683449499
+      Gamepad Prompts (1)_86: -1767246648
+      Gamepad Prompts (1)_87: -811780384
+      Gamepad Prompts (1)_88: 1383837163
+      Gamepad Prompts (1)_89: -748295496
+      Gamepad Prompts (1)_9: 78578476
+      Gamepad Prompts (1)_90: 349488839
+      Gamepad Prompts (1)_91: 728047111
+      Gamepad Prompts (1)_92: -1416292099
+      Gamepad Prompts (1)_93: 273983116
+      Gamepad Prompts (1)_94: -1303641555
+      Gamepad Prompts (1)_95: -263272793
+      Gamepad Prompts (1)_96: 400584439
+      Gamepad Prompts (1)_97: -568828583
+      Gamepad Prompts (1)_98: -1844569779
+      Gamepad Prompts (1)_99: -2098944193
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
